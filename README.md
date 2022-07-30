@@ -25,6 +25,6 @@ Whilst there have are many other tables in the database, their class files and D
 
 See how this is done in [djaus2/ScanAVResults](https://github.com/djaus2/ScanAVResults)
 
-> The project is there but haven't explain the simpler way yet .. coming.
+> The project is there but haven't explained the simpler way yet .. coming.
 
 
