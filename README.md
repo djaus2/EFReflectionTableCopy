@@ -14,4 +14,9 @@ The Scafolding command is
 scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "THE CONNECTION STRING” -OutputDir Models
 ```
 
-Where "THE CONNECTION STRING” is the SQL Server database connection string and Models is the Console app directory to which the generated class files are added, in this case xxx
+Where "THE CONNECTION STRING” is the SQL Server database connection string and Models is the Console app directory to which the generated class files are added. Note that there is a DBContext class file with the classes DBSet also created in tha folder.
+
+Whilst there have are many other tables in the database, their class files and DBSets ahve been removed for simplicity.
+
+- Wmarecords is the original table to which the CSV data awas imported in SSMS, the source
+- WorldMasterRecords is the table of data used in the Blazor app, the target.
