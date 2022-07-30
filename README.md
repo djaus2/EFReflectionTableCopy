@@ -23,6 +23,6 @@ Whilst there have are many other tables in the database, their class files and D
 
 ## Spoiler Alert
 
-See how this is done in [djaus2/ScanAVResults](djaus2/ScanAVResults)
+See how this is done in [/djaus2/ScanAVResults](djaus2/ScanAVResults)
 
 
