@@ -29,6 +29,6 @@ By using Reflection and Ef, there is no need to manually define classes.
 
 See how this is done in [djaus2/ScanAVResults](https://github.com/djaus2/ScanAVResults)
 
-> The project is there but haven't explained the simpler way yet .. coming.
+> See **Using the MasterRecordClaims Table**
 
 
