@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFReflectionTableCopy", "ConsoleApp6\EFReflectionTableCopy.csproj", "{2CDE417F-2560-4F30-A859-505E81725E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFReflectionTableCopy", "TheConsoleApp\EFReflectionTableCopy.csproj", "{2CDE417F-2560-4F30-A859-505E81725E8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
